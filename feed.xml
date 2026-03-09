@@ -5,14 +5,23 @@
     <description>RSS Feed untuk id.medanaktual.com kategori BPJS Kesehatan</description>
     <link>https://id.medanaktual.com/category/bpjs-kesehatan/</link>
     <language>id</language>
-    <lastBuildDate>Sun, 08 Mar 2026 23:48:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 05:13:22 +0000</lastBuildDate>
     <ns0:link href="https://Kimjo12.github.io/BPJS-Kesehatan---MedanAktual-RSS-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rekomendasi 5 Rumah Sakit di Medan yang Menerima Rujukan BPJS</title>
+      <link>https://id.medanaktual.com/rekomendasi-5-rumah-sakit-di-medan-yang-menerima-rujukan-bpjs/</link>
+      <guid>https://id.medanaktual.com/rekomendasi-5-rumah-sakit-di-medan-yang-menerima-rujukan-bpjs/</guid>
+      <pubDate>Mon, 09 Mar 2026 08:59:22 +0000</pubDate>
+      <category>BPJS Kesehatan</category>
+    </item>
     <item>
       <title>PBI JK BPJS Kesehatan 2026: Cek Syarat dan Cara Mendaftarnya</title>
       <link>https://id.medanaktual.com/pbi-jk-bpjs-kesehatan-2026-cek-syarat-dan-cara-mendaftarnya/</link>
       <guid>https://id.medanaktual.com/pbi-jk-bpjs-kesehatan-2026-cek-syarat-dan-cara-mendaftarnya/</guid>
       <pubDate>Sun, 08 Mar 2026 15:29:49 +0000</pubDate>
       <category>BPJS Kesehatan</category>
+      <description>Program Penerima Bantuan Iuran Jaminan Kesehatan (PBI JK) menjadi salah satu upaya pemerintah untuk memastikan masyarakat kurang mampu tetap mendapatkan...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/03/Screenshot-2026-03-08-122429-350x250.png" medium="image"/>
     </item>
     <item>
       <title>Cara Daftar PBI BPJS Kesehatan 2026, Berikut Panduannya</title>
@@ -96,15 +105,6 @@
       <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/medanaktualpicture00005-41_11zon-1-350x250.jpg" medium="image"/>
     </item>
     <item>
-      <title>Cara Mudah Pindah Faskes BPJS Kesehatan Lewat Aplikasi Mobile JKN</title>
-      <link>https://id.medanaktual.com/cara-mudah-pindah-faskes-bpjs-kesehatan-lewat-aplikasi-mobile-jkn/</link>
-      <guid>https://id.medanaktual.com/cara-mudah-pindah-faskes-bpjs-kesehatan-lewat-aplikasi-mobile-jkn/</guid>
-      <pubDate>Wed, 25 Feb 2026 10:15:33 +0000</pubDate>
-      <category>BPJS Kesehatan</category>
-      <description>Layanan kesehatan digital terus berkembang seiring kebutuhan masyarakat yang menginginkan proses cepat dan praktis. Melalui inovasi dari BPJS Kesehatan, peserta...</description>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/cara-mudah-pindah-faskes-bpjs-kesehatan-lewat-aplikasi-mobile-jkn-350x250.webp" medium="image"/>
-    </item>
-    <item>
       <title>Cara Cek NISN Online Pakai Nama, Mudah dan Resmi</title>
       <link>https://id.medanaktual.com/cara-cek-nisn-online-pakai-nama-mudah-dan-resmi/</link>
       <guid>https://id.medanaktual.com/cara-cek-nisn-online-pakai-nama-mudah-dan-resmi/</guid>
@@ -129,14 +129,6 @@
       <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/tabel-angsuran-kur-bri-2026-dan-panduan-pengajuan-pinjaman-umkm-120x86.webp" medium="image"/>
     </item>
     <item>
-      <title>Cek PIP 2026 Mudah Lewat SIPINTAR di pip.kemendikdasmen.go.id</title>
-      <link>https://id.medanaktual.com/cek-pip-2026-mudah-lewat-sipintar-di-pip-kemendikdasmen-go-id/</link>
-      <guid>https://id.medanaktual.com/cek-pip-2026-mudah-lewat-sipintar-di-pip-kemendikdasmen-go-id/</guid>
-      <pubDate>Mon, 02 Mar 2026 10:15:02 +0000</pubDate>
-      <category>BPJS Kesehatan</category>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/03/Screenshot-2026-03-01-230929-120x86.png" medium="image"/>
-    </item>
-    <item>
       <title>Lokasi Penukaran Uang Baru di Bandung Lewat PINTAR BI</title>
       <link>https://id.medanaktual.com/lokasi-penukaran-uang-baru-di-bandung-lewat-pintar-bi/</link>
       <guid>https://id.medanaktual.com/lokasi-penukaran-uang-baru-di-bandung-lewat-pintar-bi/</guid>
@@ -145,36 +137,44 @@
       <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/03/lokasi-penukaran-uang-baru-120x86.webp" medium="image"/>
     </item>
     <item>
-      <title>Cara Mengetahui NISN Secara Online, Cukup Gunakan HP</title>
-      <link>https://id.medanaktual.com/cara-mengetahui-nisn-secara-online-cukup-gunakan-hp/</link>
-      <guid>https://id.medanaktual.com/cara-mengetahui-nisn-secara-online-cukup-gunakan-hp/</guid>
-      <pubDate>Wed, 18 Feb 2026 18:26:03 +0000</pubDate>
+      <title>Cek PIP 2026 Mudah Lewat SIPINTAR di pip.kemendikdasmen.go.id</title>
+      <link>https://id.medanaktual.com/cek-pip-2026-mudah-lewat-sipintar-di-pip-kemendikdasmen-go-id/</link>
+      <guid>https://id.medanaktual.com/cek-pip-2026-mudah-lewat-sipintar-di-pip-kemendikdasmen-go-id/</guid>
+      <pubDate>Mon, 02 Mar 2026 10:15:02 +0000</pubDate>
       <category>BPJS Kesehatan</category>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/cara-mengetahui-nisn-secara-online-cukup-gunakan-hp-350x250.webp" medium="image"/>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/03/Screenshot-2026-03-01-230929-120x86.png" medium="image"/>
     </item>
     <item>
-      <title>Ini Rekomendasi Dokter Kandungan dan Kebidanan Terbaik di Medan</title>
-      <link>https://id.medanaktual.com/ini-rekomendasi-dokter-kandungan-dan-kebidanan-terbaik-di-medan/</link>
-      <guid>https://id.medanaktual.com/ini-rekomendasi-dokter-kandungan-dan-kebidanan-terbaik-di-medan/</guid>
-      <pubDate>Wed, 04 Mar 2026 11:25:37 +0000</pubDate>
+      <title>Tabel KUR BRI 2026 Pinjaman Rp 70 Juta dan Angsuran</title>
+      <link>https://id.medanaktual.com/tabel-kur-bri-2026-pinjaman-rp-70-juta-dan-angsuran/</link>
+      <guid>https://id.medanaktual.com/tabel-kur-bri-2026-pinjaman-rp-70-juta-dan-angsuran/</guid>
+      <pubDate>Mon, 02 Feb 2026 19:50:28 +0000</pubDate>
       <category>BPJS Kesehatan</category>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/03/Screenshot-2026-03-04-085249-120x86.png" medium="image"/>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/tabel-kur-bri-2026-pinjaman-rp-70-juta-dan-angsuran-350x250.webp" medium="image"/>
     </item>
     <item>
-      <title>Informasi KIP Kuliah 2026: Syarat, Ketentuan, dan Berkas Wajib</title>
-      <link>https://id.medanaktual.com/informasi-kip-kuliah-2026-syarat-ketentuan-dan-berkas-wajib/</link>
-      <guid>https://id.medanaktual.com/informasi-kip-kuliah-2026-syarat-ketentuan-dan-berkas-wajib/</guid>
-      <pubDate>Tue, 10 Feb 2026 22:30:40 +0000</pubDate>
+      <title>Rekomendasi Kampus Swasta di Aceh yang Wajib Diketahui Calon Mahasiswa</title>
+      <link>https://id.medanaktual.com/rekomendasi-kampus-swasta-di-aceh-yang-wajib-diketahui-calon-mahasiswa/</link>
+      <guid>https://id.medanaktual.com/rekomendasi-kampus-swasta-di-aceh-yang-wajib-diketahui-calon-mahasiswa/</guid>
+      <pubDate>Thu, 19 Feb 2026 16:00:23 +0000</pubDate>
       <category>BPJS Kesehatan</category>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/informasi-kip-kuliah-2026-syarat-ketentuan-dan-berkas-wajib-120x86.webp" medium="image"/>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/Screenshot-2026-02-19-091014-120x86.png" medium="image"/>
     </item>
     <item>
-      <title>Cara Aktifkan Kembali Kartu BPJS yang Non-Aktif, Update Terbaru 2026</title>
-      <link>https://id.medanaktual.com/cara-aktifkan-kembali-kartu-bpjs-yang-non-aktif-update-terbaru-2026/</link>
-      <guid>https://id.medanaktual.com/cara-aktifkan-kembali-kartu-bpjs-yang-non-aktif-update-terbaru-2026/</guid>
-      <pubDate>Fri, 30 Jan 2026 08:00:58 +0000</pubDate>
+      <title>Info Beasiswa Astra 2026, Peluang Kuliah Gratis</title>
+      <link>https://id.medanaktual.com/info-beasiswa-astra-2026-peluang-kuliah-gratis/</link>
+      <guid>https://id.medanaktual.com/info-beasiswa-astra-2026-peluang-kuliah-gratis/</guid>
+      <pubDate>Mon, 16 Feb 2026 14:28:28 +0000</pubDate>
       <category>BPJS Kesehatan</category>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/01/Cuplikan-layar-2026-01-29-194528-120x86.png" medium="image"/>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/Screenshot-2026-02-16-121711-120x86.png" medium="image"/>
+    </item>
+    <item>
+      <title>Cek Tabel Angsuran KUR BRI Februari 2026, Cicilan Pinjaman Rp1 Juta–Rp60 Juta</title>
+      <link>https://id.medanaktual.com/cek-tabel-angsuran-kur-bri-februari-2026-cicilan-pinjaman-rp1-juta-rp60-juta/</link>
+      <guid>https://id.medanaktual.com/cek-tabel-angsuran-kur-bri-februari-2026-cicilan-pinjaman-rp1-juta-rp60-juta/</guid>
+      <pubDate>Sun, 08 Feb 2026 06:00:34 +0000</pubDate>
+      <category>BPJS Kesehatan</category>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/medanaktualpicture00005-29_11zon-120x86.jpg" medium="image"/>
     </item>
   </channel>
 </rss>
