@@ -5,7 +5,7 @@
     <description>RSS Feed untuk id.medanaktual.com kategori BPJS Kesehatan</description>
     <link>https://id.medanaktual.com/category/bpjs-kesehatan/</link>
     <language>id</language>
-    <lastBuildDate>Sun, 05 Apr 2026 05:11:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 07:04:40 +0000</lastBuildDate>
     <ns0:link href="https://Kimjo12.github.io/BPJS-Kesehatan---MedanAktual-RSS-Feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Perubahan Besar BPJS: Kelas 1-3 Dihapus, Layanan KRIS Mulai Kapan Diterapkan?</title>
@@ -72,20 +72,20 @@
       <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/medanaktualpicture00005-64-150x150.jpg" medium="image"/>
     </item>
     <item>
-      <title>Jadwal KRL Solo–Jogja 31 Maret–5 April 2026 Terbaru</title>
-      <link>https://id.medanaktual.com/jadwal-krl-solo-jogja-31-maret-5-april-2026-terbaru/</link>
-      <guid>https://id.medanaktual.com/jadwal-krl-solo-jogja-31-maret-5-april-2026-terbaru/</guid>
-      <pubDate>Tue, 31 Mar 2026 14:50:23 +0000</pubDate>
-      <category>BPJS Kesehatan</category>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/03/jadwal-krl-solo-jogja-hari-ini-29-30-dan-31-maret-2026-cek-rute-dan-waktunya-1-150x150.webp" medium="image"/>
-    </item>
-    <item>
       <title>Jadwal KRL Solo Jogja Hari Ini 2, 3, 4 dan 5 April 2026 Lengkap</title>
       <link>https://id.medanaktual.com/jadwal-krl-solo-jogja-hari-ini-2-3-4-dan-5-april-2026-lengkap/</link>
       <guid>https://id.medanaktual.com/jadwal-krl-solo-jogja-hari-ini-2-3-4-dan-5-april-2026-lengkap/</guid>
       <pubDate>Thu, 02 Apr 2026 13:39:37 +0000</pubDate>
       <category>BPJS Kesehatan</category>
       <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/jadwal-krl-solo-jogja-hari-ini-2-3-4-dan-5-april-2026-lengkap-150x150.webp" medium="image"/>
+    </item>
+    <item>
+      <title>Jadwal KRL Solo–Jogja 31 Maret–5 April 2026 Terbaru</title>
+      <link>https://id.medanaktual.com/jadwal-krl-solo-jogja-31-maret-5-april-2026-terbaru/</link>
+      <guid>https://id.medanaktual.com/jadwal-krl-solo-jogja-31-maret-5-april-2026-terbaru/</guid>
+      <pubDate>Tue, 31 Mar 2026 14:50:23 +0000</pubDate>
+      <category>BPJS Kesehatan</category>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/03/jadwal-krl-solo-jogja-hari-ini-29-30-dan-31-maret-2026-cek-rute-dan-waktunya-1-150x150.webp" medium="image"/>
     </item>
   </channel>
 </rss>
