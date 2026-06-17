@@ -1,2 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"><channel><title>BPJS Kesehatan - MedanAktual RSS Feed</title><link>https://id.medanaktual.com/category/bpjs-kesehatan/</link><description>RSS Feed untuk id.medanaktual.com kategori BPJS Kesehatan</description></channel></rss>
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>BPJS Kesehatan - MedanAktual RSS Feed</title>
+    <description>RSS Feed untuk id.medanaktual.com kategori BPJS Kesehatan</description>
+    <link>https://id.medanaktual.com/category/bpjs-kesehatan/</link>
+    <language>id</language>
+    <lastBuildDate>Wed, 17 Jun 2026 15:25:36 +0000</lastBuildDate>
+    <ns0:link href="https://Kimjo12.github.io/BPJS-Kesehatan---MedanAktual-RSS-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Daftar Penyakit dan Jenis Operasi yang Tidak Ditanggung BPJS Kesehatan 2026</title>
+      <link>https://id.medanaktual.com/operasi-yang-tidak-ditanggung/</link>
+      <guid>https://id.medanaktual.com/operasi-yang-tidak-ditanggung/</guid>
+      <pubDate>Wed, 17 Jun 2026 15:25:38 +0000</pubDate>
+      <category>BPJS Kesehatan</category>
+    </item>
+    <item>
+      <title>Cara Skrining BPJS Kesehatan 2026 Lewat HP, Praktis Bisa Online via Mobile JKN dan Website</title>
+      <link>https://id.medanaktual.com/cara-skrining-bpjs-kesehatan-10/</link>
+      <guid>https://id.medanaktual.com/cara-skrining-bpjs-kesehatan-10/</guid>
+      <pubDate>Wed, 17 Jun 2026 15:25:40 +0000</pubDate>
+      <category>BPJS Kesehatan</category>
+      <description>Cara skrining BPJS Kesehatan 2026 perlu diketahui oleh seluruh peserta Jaminan Kesehatan Nasional (JKN). Melalui layanan ini, peserta dapat melakukan...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/06/cara-skrining-bpjs-kesehatan-2026-lewat-hp-praktis-bisa-online-via-mobile-jkn-dan-website.webp" medium="image"/>
+    </item>
+    <item>
+      <title>Daftar Layanan Medis yang Tidak Ditanggung BPJS Kesehatan Sesuai Aturan Terbaru</title>
+      <link>https://id.medanaktual.com/bpjs-kesehatan-2026-update/</link>
+      <guid>https://id.medanaktual.com/bpjs-kesehatan-2026-update/</guid>
+      <pubDate>Wed, 17 Jun 2026 15:25:42 +0000</pubDate>
+      <category>BPJS Kesehatan</category>
+      <description>BPJS Kesehatan sebagai bagian dari program Jaminan Kesehatan Nasional (JKN) menjadi andalan banyak masyarakat Indonesia dalam menanggung biaya pengobatan, termasuk...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/06/Picture-2026-06-17T173137.064.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Cara Reaktivasi PBI BPJS Kesehatan 2026, Simak Syarat dan Proses Pengajuannya</title>
+      <link>https://id.medanaktual.com/cara-reaktivasi-pbi-bpjs/</link>
+      <guid>https://id.medanaktual.com/cara-reaktivasi-pbi-bpjs/</guid>
+      <pubDate>Wed, 17 Jun 2026 15:25:44 +0000</pubDate>
+      <category>BPJS Kesehatan</category>
+      <description>BPJS Kesehatan kembali membuka kesempatan bagi peserta Penerima Bantuan Iuran Jaminan Kesehatan Nasional (PBI JKN) yang kepesertaannya dinonaktifkan untuk mengajukan...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/06/Cara-Reaktivasi-PBI-BPJS-Kesehatan-2026-Simak-Syarat-dan-Proses-Pengajuannya.png" medium="image"/>
+    </item>
+    <item>
+      <title>Cara Aktifkan BPJS Kesehatan Online 2026, Bisa Lewat Mobile JKN dan WhatsApp</title>
+      <link>https://id.medanaktual.com/aktifkan-bpjs-kesehatan-update/</link>
+      <guid>https://id.medanaktual.com/aktifkan-bpjs-kesehatan-update/</guid>
+      <pubDate>Wed, 17 Jun 2026 15:25:46 +0000</pubDate>
+      <category>BPJS Kesehatan</category>
+      <description>Akses layanan kesehatan yang mudah dan terjangkau menjadi salah satu kebutuhan penting bagi masyarakat. Karena itu, menjaga status kepesertaan JKN...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/06/Picture-2026-06-17T162424.530.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Cara Cicil Tunggakan BPJS Kesehatan Lewat Program Rehab, Begini Syarat dan Ketentuannya</title>
+      <link>https://id.medanaktual.com/cara-cicil-tunggakan-bpjs/</link>
+      <guid>https://id.medanaktual.com/cara-cicil-tunggakan-bpjs/</guid>
+      <pubDate>Wed, 17 Jun 2026 15:25:50 +0000</pubDate>
+      <category>BPJS Kesehatan</category>
+      <description>Peserta BPJS Kesehatan yang memiliki tunggakan iuran kini tidak perlu langsung melunasi seluruh tagihan sekaligus. BPJS Kesehatan menghadirkan solusi melalui...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/06/Cara-Cicil-Tunggakan-BPJS-Kesehatan-Lewat-Program-Rehab-Begini-Syarat-dan-Ketentuannya.png" medium="image"/>
+    </item>
+    <item>
+      <title>BPJS Kesehatan 2026: Daftar Layanan yang Ditanggung dan Tidak Ditanggung serta Cara Pendaftarannya</title>
+      <link>https://id.medanaktual.com/bpjs-kesehatan-2026-daftar/</link>
+      <guid>https://id.medanaktual.com/bpjs-kesehatan-2026-daftar/</guid>
+      <pubDate>Wed, 17 Jun 2026 15:25:51 +0000</pubDate>
+      <category>BPJS Kesehatan</category>
+      <description>Program BPJS Kesehatan melalui Jaminan Kesehatan Nasional (JKN) memberikan perlindungan layanan kesehatan bagi masyarakat Indonesia. Peserta dapat memperoleh layanan mulai...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/06/Picture-2026-06-17T135231.823.jpg" medium="image"/>
+    </item>
+  </channel>
+</rss>
