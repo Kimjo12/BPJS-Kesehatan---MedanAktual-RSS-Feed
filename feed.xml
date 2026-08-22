@@ -5,14 +5,23 @@
     <description>RSS Feed untuk id.medanaktual.com kategori BPJS Kesehatan</description>
     <link>https://id.medanaktual.com/category/bpjs-kesehatan/</link>
     <language>id</language>
-    <lastBuildDate>Sat, 22 Aug 2026 05:24:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 06:36:06 +0000</lastBuildDate>
     <ns0:link href="https://Kimjo12.github.io/BPJS-Kesehatan---MedanAktual-RSS-Feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cara Cek Bansos PBI JK Agustus 2026, Simak Syarat dan Langkahnya</title>
+      <link>https://id.medanaktual.com/cara-cek-bansos-pbi-jk-agustus-2026-simak-syarat-dan-langkahnya/</link>
+      <guid>https://id.medanaktual.com/cara-cek-bansos-pbi-jk-agustus-2026-simak-syarat-dan-langkahnya/</guid>
+      <pubDate>Sat, 22 Aug 2026 12:30:37 +0000</pubDate>
+      <category>BPJS Kesehatan</category>
+    </item>
     <item>
       <title>Cara Pindah Faskes BPJS Kesehatan lewat Mobile JKN, Ini Syarat dan Langkahnya</title>
       <link>https://id.medanaktual.com/cara-pindah-faskes-bpjs-kesehatan-lewat-mobile-jkn-ini-syarat-dan-langkahnya/</link>
       <guid>https://id.medanaktual.com/cara-pindah-faskes-bpjs-kesehatan-lewat-mobile-jkn-ini-syarat-dan-langkahnya/</guid>
       <pubDate>Wed, 19 Aug 2026 10:00:51 +0000</pubDate>
       <category>BPJS Kesehatan</category>
+      <description>Peserta BPJS Kesehatan dapat memilih fasilitas kesehatan tingkat pertama (FKTP) sesuai kebutuhan dan domisili. Jika ingin mendapatkan pelayanan kesehatan di...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/08/cara-pindah-faskes-bpjs-kesehatan-lewat-mobile-jkn-ini-syarat-dan-langkahnya-350x250.webp" medium="image"/>
     </item>
     <item>
       <title>BPJS Kesehatan Aktif atau Tidak? Ini Cara Cek Status dan Iuran via Mobile JKN</title>
@@ -58,15 +67,6 @@
       <category>BPJS Kesehatan</category>
       <description>BPJS Kesehatan merupakan program jaminan kesehatan nasional yang wajib diikuti oleh seluruh masyarakat Indonesia sesuai dengan ketentuan yang berlaku. Melalui...</description>
       <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/07/cara-mudah-daftar-bpjs-kesehatan-2026-melalui-mobile-jkn-1-350x250.webp" medium="image"/>
-    </item>
-    <item>
-      <title>Cara Cek Penerima BPJS Kesehatan Gratis 2026, Hanya Pakai NIK KTP</title>
-      <link>https://id.medanaktual.com/cara-cek-penerima-bpjs-kesehatan-gratis-2026-hanya-pakai-nik-ktp/</link>
-      <guid>https://id.medanaktual.com/cara-cek-penerima-bpjs-kesehatan-gratis-2026-hanya-pakai-nik-ktp/</guid>
-      <pubDate>Wed, 29 Jul 2026 22:20:46 +0000</pubDate>
-      <category>BPJS Kesehatan</category>
-      <description>Program BPJS Kesehatan Penerima Bantuan Iuran (PBI) merupakan salah satu bentuk bantuan pemerintah bagi masyarakat yang tergolong miskin maupun rentan...</description>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/07/cara-cek-penerima-bpjs-kesehatan-gratis-2026-hanya-pakai-nik-ktp-350x250.webp" medium="image"/>
     </item>
   </channel>
 </rss>
